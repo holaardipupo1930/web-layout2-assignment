@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    width: auto;
+    height: auto;
+    background-color: whitesmoke;
+    border: 2px solid black;
+}
+.head th{
+    color: green;
+    border: 2px solid black;
+    width: 50rem;
+    height: 50px;
+    text-align: center;
+}
+.Menu td{
+    color: green;
+    border: 2px solid black;
+    width: 5rem;
+    height: 50px;
+    text-align: center
+}
+
+table tr .cont1{
+    border: 2px solid black;
+    height: 25rem;
+    width: 13rem;
+    text-align: center;
+    font-size: 2rem;
+    color: green;
+
+}
+table tr .cont2{
+    border: 2px solid black;
+    height: 25rem;
+    width: 23.3rem;
+    text-align: center;
+    font-size: 2rem;
+    color: green;
+}
+table tr .cont3{
+    border: 2px solid black;
+    height: 25rem;
+    width: 13rem;
+    text-align: center;
+    font-size: 2rem;
+    color: green;
+}
+.footer td h1{
+    color: green;
+    border: 2px solid black;
+    width: 50rem;
+    height: 50px;
+    text-align: center;
+}
